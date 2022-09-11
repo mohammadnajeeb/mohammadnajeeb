@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://mohammadnajeeb.github.io/#blog](https://mohammadnajeeb.github.io/#blog)
 
-- 📫 How to reach me **mohammadnajeeb@live.com**
+- 📫 To reach me **mohammadnajeeb@live.com**
 
 - 📄 Know about my experiences [https://mohammadnajeeb.github.io/#resume](https://mohammadnajeeb.github.io/#resume)
 
